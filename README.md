@@ -43,9 +43,29 @@ placement-management-system/
 │       ├── context/              # React context (Auth, etc.)
 │       └── App.jsx               # Root component
 │
+├── docs/                         # Project guidelines & documentation
+│   ├── UI_DESIGN_SYSTEM.md       # Complete UI visual guide & exact Tailwind classes
+│   ├── DEVELOPMENT_WORKFLOW.md   # Beginner handbook: 4 steps to build & submit PRs
+│   ├── ISSUES_BACKLOG.md         # 12 pre-scoped issues ready to open in GitHub
+│   ├── BACKEND_API_CONTRACT.md   # Live backend endpoints & response shapes
+│   ├── FRONTEND_GUIDELINES.md    # Frontend styling & Tailwind standards
+│   └── ROADMAP.md                # Milestones & feature matrix
+│
 ├── .gitignore
 └── README.md
 ```
+
+## 📚 Club Guidelines & Documentation
+
+For all Software Developers Club (SDC) contributors:
+* 🎨 **[Unified UI Design System](docs/UI_DESIGN_SYSTEM.md):** **Must Read for UI!** Exact Tailwind classes for Buttons, Cards, Colors, Badges, and Tables.
+* 🚀 **[Contributor Handbook](docs/DEVELOPMENT_WORKFLOW.md):** The 4 simple steps to pick a task and send a PR.
+* 📋 **[Frontend Issues Backlog](docs/ISSUES_BACKLOG.md):** 12 ready-to-copy GitHub issues for your sprint.
+* 🔌 **[Backend API Contract](docs/BACKEND_API_CONTRACT.md):** Real backend endpoints you can connect to today.
+* 🗺️ **[Product Roadmap](docs/ROADMAP.md):** Milestone breakdown across Student, TPO, and Admin tracks.
+
+
+
 
 ## 🚀 Getting Started
 
